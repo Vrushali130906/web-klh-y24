@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Vrushali
+            Vrushali's App
           </Title>
 
           <Text
